@@ -1,0 +1,18 @@
+.containerBtn {
+  display: flex;
+  gap: 8px;
+}
+
+.button {
+  padding: 5px 10px;
+  border-radius: 5px;
+  text-transform: uppercase;
+  color: black;
+  font-weight: 600;
+  background-color: #eae9e9;
+  border: none;
+  cursor: pointer;
+}
+.button:active {
+  background-color: orange;
+}
